@@ -12,7 +12,8 @@
 		"ms-dotnettools.csharp",
 		"ms-vscode.azure-account",
 		"ms-azuretools.vscode-azurelogicapps",
-		"azurite.azurite"
+		"azurite.azurite",
+		"humao.rest-client"
 	],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
